@@ -12,52 +12,79 @@
 
 <main id="main">
 
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-        <div class="container">
-
-            <div class="row no-gutters">
-                <div class="content col-xl-5 d-flex align-items-stretch" data-aos="fade-up">
-                    <div class="content">
-                        <h3>Voluptatem dignissimos provident quasi</h3>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                        </p>
-                        <a href="#" class="about-btn">About us <i class="bx bx-chevron-right"></i></a>
-                    </div>
-                </div>
-                <div class="col-xl-7 d-flex align-items-stretch">
-                    <div class="icon-boxes d-flex flex-column justify-content-center">
-                        <div class="row">
-                            <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-                                <i class="bx bx-receipt"></i>
-                                <h4>Corporis voluptates sit</h4>
-                                <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
-                            </div>
-                            <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-                                <i class="bx bx-cube-alt"></i>
-                                <h4>Ullamco laboris nisi</h4>
-                                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
-                            </div>
-                            <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-                                <i class="bx bx-images"></i>
-                                <h4>Labore consequatur</h4>
-                                <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
-                            </div>
-                            <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-                                <i class="bx bx-shield"></i>
-                                <h4>Beatae veritatis</h4>
-                                <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- End .content-->
-                </div>
-            </div>
-
-        </div>
-    </section>
-    <!-- End About Section -->
+   <!-- Products Start  -->
+   <section id="product">
+   <div class="sec2">
+    <h1>Our Products</h1>
+     <div class="child1">
+         <div class="box1">
+            <img src="{{url('assets/img/Product%201.png')}}" alt="logo">
+             <h2>Al-Quran Bangla (Lahori Font)</h2>
+             <p>Al-Quran app (Bangla) is a multi-platform application (Android, iOS, Web) developed for advance Qur-an learners, especially for Bangla language base Muslims of the sub-continent.
+             Subscription Fee 100/= BDT</p>
+             <a href="#">More Info</a>
+         </div>
+     <div class="box2">
+            <img src="assets/img/Product%202.png" alt="logo">
+             <h2>AlQuran Bangla - Kolikata Font</h2>
+             <p>Al-Quran app (Bangla) is a multi-platform application (Android, iOS, Web) developed for advance Qur-an learners, especially for Bangla language base Muslims of the sub-continent.
+             Subscription Fee 100/= BDT</p>
+             <a href="#">More Info</a>
+         </div>
+         <div class="box3">
+            <img src="{{url('assets/img/Product%203.png')}}" alt="logo">
+             <h2>Learn Bangla Lahori Quran in 27 Hours</h2>
+             <p>This is a App for learning Quran. The object of the App is to help my Bengali speaking muslim brother and sister all over the world to learn Quran easily, correctly and in a very short time.
+             Subscription Fee 100/= BDT</p>
+             <a href="#">More Info</a>
+         </div>
+     </div>
+         <div class="child2">
+         <div class="box4">
+            <img src="{{url('assets/img/Product%204.png')}}" alt="logo">
+             <h2>40 Rabbana in Al-Quran</h2>
+             <p>To see Rabbana in Quran App Features tap Read More. Subscription Fee 100/= BDT </p>
+             <a href="#">More Info</a>
+         </div>
+     <div class="box5">
+            <img src="{{url('assets/img/Product%205.png')}}" alt="logo">
+             <h2>Nurani 109 ti Doar Vandar</h2>
+             <p>In this App, User can read and learn 109 useful Doa easily.
+             Subscription Fee 100/= BDT</p>
+             <a href="#">More Info</a>
+         </div>
+         <div class="box6">
+            <img src="{{url('assets/img/Product%206.png')}}" alt="logo">
+             <h2>Subject wise Quran</h2>
+             <p>To see Al Quran App Features tap to Read More.
+             Subscription Fee 100/= BDT</p>
+             <a href="#">More Info</a>
+         </div>
+ </div>
+ 
+ <div class="child3">
+         <div class="box7">
+            <img src="{{url('assets/img/Product%207.png')}}" alt="logo">
+             <h2>40 Rabbana in Al-Quran</h2>
+             <p>This App contains Important 320 word of Al-Quran with reference. Word meaning and Ayat Meaning. Bangla Pronunciation of word and Ayat. Learning 80% word meaning of Al-Quran through these 320 words. Donate Yatim khana through this App. Subscription Fee 100/= BDT</p>
+             <a href="#">More Info</a>
+         </div>
+     <div class="box8">
+            <img src="{{url('assets/img/Product%208.png')}}" alt="logo">
+             <h2>Nurani 109 ti Doar Vandar</h2>
+             <p> Quranic Ayat for Jannat Jahannam. Ayat Recitation. Bangla meaning. Details Quranic Ayat about the Happiness of Jannat. Details Quranic Ayat about the punishment of Jahannam. Subscription Fee 100/= BDT </p>
+             <a href="#">More Info</a>
+         </div>
+         <div class="box9">
+            <img src="{{url('assets/img/Product%209.png')}}" alt="logo">
+             <h2>Subject wise Quran</h2>
+             <p>Teaching Hadith and Qur'anic verses with voice. Subscription Fee 100/= BDT </p>
+             <a href="#">More Info</a>
+         </div>
+ </div>
+ </div>
+</section>
+<!--  Products End  -->
 
 
 

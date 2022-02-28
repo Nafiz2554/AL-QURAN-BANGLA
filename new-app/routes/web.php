@@ -15,4 +15,4 @@ use App\Http\Controllers\HomeController;
 */
 
 Route::get('/',[HomeController::class,'index']);
-Route::get('/sign-up',[HomeController::class,'signup']);
+ 

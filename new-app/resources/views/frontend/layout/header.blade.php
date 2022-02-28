@@ -16,7 +16,7 @@
                 <!-- <li><a class="nav-link scrollto" href="#services">Services</a></li>
                 <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li>
                 <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
-                <li class="dropdown"><a href="#"><span>Products</span> <i class="bi bi-chevron-down"></i></a>
+                <li class="dropdown"><a href="#product"><span>Products</span> <i class="bi bi-chevron-down"></i></a>
                     <!-- <ul>
                         <li><a href="#">Drop Down 1</a></li>
                         <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
@@ -44,7 +44,7 @@
                     </ul>
                 </li>
                 <li><a class="nav-link scrollto" href="#contact">Contact Us</a></li>
-                <li><a class="nav-link scrollto {{ request()->is('property') ? 'active' : '' }}" href="{{url('sign-up')}}">Sign Up</a></li>
+                 
                 
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
